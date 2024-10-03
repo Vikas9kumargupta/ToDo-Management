@@ -8,6 +8,7 @@ Features:
 Task Creation: Users can input task details, including titles, descriptions, due dates, and priorities.
 Task Editing: Existing tasks can be modified to update information or change their status.
 Task Deletion: Completed or unnecessary tasks can be removed from the list.
+Security Feature: Authentication and Authorization using Spring Security.
 
-Tech Stack used -> SpringBoot, Java , POSTMAN
-Dependencies added -> Spring Web, Lombok, MySQL Driver, Spring Data Jpa
+Tech Stack used -> SpringBoot, Java, POSTMAN
+Dependencies added -> Spring Web, Lombok, MySQL Driver, Spring Data JPA, Spring Security, ModelMapper 
