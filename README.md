@@ -25,13 +25,24 @@ User Profiles: Allow users to create profiles with personalized settings and pre
 
 Tech Stack :
 
-Tech Stack used -> SpringBoot, Java, POSTMAN
-Dependencies added -> Spring Web, Lombok, MySQL Driver, Spring Data JPA, Spring Security, ModelMapper 
+SpringBoot 
+
+Java
+
+POSTMAN
+
+
+DEPENDENCIES ADDED -> Spring Web, Lombok, MySQL Driver, Spring Data JPA, Spring Security, ModelMapper 
+
 
 Getting Started :
 
 Clone the Repository: Download the project from [GitHub repository link].
+
 Set Up Dependencies: Ensure that all required dependencies are added to your project's build configuration.
+
 Configure Database: Create a MySQL database and configure the connection details in the application's properties file.
+
 Run the Application: Start the application using your preferred IDE or build tool.
+
 Access the API: Use Postman or a similar tool to interact with the application's RESTful APIs.
