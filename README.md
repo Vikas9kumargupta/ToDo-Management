@@ -7,13 +7,21 @@ This application is designed to help users effectively manage their tasks and st
 Features:
 
 Task Creation: Users can input task details, including titles, descriptions, due dates, and priorities.
+
 Task Search: Users can get task details by ID, and title about added tasks and keep reminding themselves.
+
 Task Editing: Existing tasks can be modified to update information or change their status.
+
 Task Deletion: Completed or unnecessary tasks can be removed from the list.
+
 Task In-Completion Tracking: Implemented a feature to mark incomplete tasks as incompleted and track progress.
+
 Task Completion Tracking: Implemented a feature to mark tasks as completed and track progress.
+
 Security: Robust security measures are in place to protect user data and prevent unauthorized access.
+
 User Profiles: Allow users to create profiles with personalized settings and preferences.
+
 
 Tech Stack :
 
