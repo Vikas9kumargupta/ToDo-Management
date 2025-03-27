@@ -1,41 +1,50 @@
-Todo Management Project
+# Todo Management Project
 
-Overview
+## Overview
 
 This application is designed to help users effectively manage their tasks and stay organized. It provides features for creating, editing, deleting, prioritizing tasks, and setting deadlines and reminders.
 
-Features:
+## Features:
 
-Task Creation: Users can input task details, including titles, descriptions, due dates, and priorities.
+- Task Creation: Users can input task details, including titles, descriptions, due dates, and priorities.
 
-Task Search: Users can get task details by ID, and title about added tasks and keep reminding themselves.
+- Task Search: Users can get task details by ID and title about added tasks and keep reminding themselves.
 
-Task Editing: Existing tasks can be modified to update information or change their status.
+- Task Editing: Existing tasks can be modified to update information or change their status.
 
-Task Deletion: Completed or unnecessary tasks can be removed from the list.
+- Task Deletion: Completed or unnecessary tasks can be removed from the list.
 
-Task In-Completion Tracking: Implemented a feature to mark incomplete tasks as incompleted and track progress.
+- Task In-Completion Tracking: Implemented a feature to mark incomplete tasks as incompleted and track progress.
 
-Task Completion Tracking: Implemented a feature to mark tasks as completed and track progress.
+- Task Completion Tracking: Implemented a feature to mark tasks as completed and track progress.
 
-Security: Robust security measures are in place to protect user data and prevent unauthorized access.
+- Security: Robust security measures are in place to protect user data and prevent unauthorized access.
 
-User Profiles: Allow users to create profiles with personalized settings and preferences.
+- User Profiles: Allow users to create profiles with personalized settings and preferences.
 
+---
 
-Tech Stack :
+## Tech Stack :
 
-SpringBoot 
+- SpringBoot 
 
-Java
+- Java
 
-POSTMAN
+- POSTMAN
 
+---
 
-DEPENDENCIES ADDED -> Spring Web, Lombok, MySQL Driver, Spring Data JPA, Spring Security, ModelMapper 
+## DEPENDENCIES ADDED : 
+- Spring Web
+- Lombok
+- MySQL Driver
+- Spring Data JPA
+- Spring Security
+- ModelMapper 
 
+---
 
-Getting Started :
+## Getting Started :
 
 Clone the Repository: Download the project from [GitHub repository link].
 
